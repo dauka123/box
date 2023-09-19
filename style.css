@@ -1,0 +1,53 @@
+.navbar {
+  background-color: #000000;
+  height: 100px;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+.card {
+  margin-bottom: 30px;
+}
+
+.card-title {
+  margin-bottom: 50px;
+}
+
+.card-text {
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #212121;
+  border-color: #212121;
+}
+
+.btn-primary:hover {
+  background-color: #444;
+  border-color: #444;
+}
+
+footer {
+  background-color: #212121;
+  color: #fff;
+  padding: 30px;
+}
+.table{
+  display: flex;
+  justify-content: center;
+}
+
+.table img:hover{
+  width: 240px;
+}
